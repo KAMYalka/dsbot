@@ -10,6 +10,8 @@
         ~ destruct all destructibles needs fix, krampus needs a fix for firetouchinterest on meshparts 
 ]]
 
+--all in this code is not exploit/  it meant for edutional purpose and it doesn't really work. 
+
 if global then
     print("ice tray is already running")
     while true do
