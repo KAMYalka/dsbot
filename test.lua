@@ -1,5 +1,5 @@
 --your free to get chunk of code and complete it  and clean it. and use it .  // this is safe!//
---[[
+
 
 
 --all in this code is not exploit/  it meant for edutional purpose and it doesn't really work. 
