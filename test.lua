@@ -1,14 +1,6 @@
 --your free to get chunk of code and complete it  and clean it. and use it .  // this is safe!//
 --[[
-    fixes for ro-exec/krampus:
-        - fixed disable turrets for cargoship
-        - fixed isInMuseum function
-        - fixed roll features
-        - fixed hack's circle updater
-        - fixed kick when using jumppower
-        - fixed anti break vehicle
-        ~ destruct all destructibles needs fix, krampus needs a fix for firetouchinterest on meshparts 
-]]
+
 
 --all in this code is not exploit/  it meant for edutional purpose and it doesn't really work. 
 
